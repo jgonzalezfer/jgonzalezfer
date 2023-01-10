@@ -1,5 +1,6 @@
 <h1 align="center">
-    Hi there, I'm  <a href="https://jgonzalez.gatsbyjs.io"  target="_blank">Joel González F.</a> 👋 I'm a Software Engineer and Digital Expert.
+    Hi there, I'm  <a href="https://jgonzalez.gatsbyjs.io"  target="_blank">Joel González F.</a> 👋
+    <br> I'm a Software Engineer and Digital Expert.
   </h1>
   
   <p align="center">
