@@ -44,12 +44,12 @@
   
   <p>
     <img
-      src="https://img.shields.io/badge/Dart-1C1C1C?style=for-the-badge&logo=dart&logoColor=00FFFF"
-      alt="Dart"
+      src="https://img.shields.io/badge/PHP-1C1C1C?style=for-the-badge&logo=PHP&logoColor=00FFFF"
+      alt="PHP"
     />&nbsp;
     <img
-      src="https://img.shields.io/badge/Flutter-1C1C1C?style=for-the-badge&logo=flutter&logoColor=00FFFF"
-      alt="Flutter"
+      src="https://img.shields.io/badge/Angular-1C1C1C?style=for-the-badge&logo=Angular&logoColor=00FFFF"
+      alt="Angular"
     />&nbsp;
     <img
       src="https://img.shields.io/badge/Kotlin-1C1C1C?style=for-the-badge&logo=kotlin&logoColor=00FFFF"
