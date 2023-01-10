@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi there, I'm  <a href="https://jgonzalezfer.github.io/Portfolio/"  target="_blank">Joel</a> 👋
+    Hi there, I'm  <a href="https://jgonzalez.gatsbyjs.io"  target="_blank">Joel</a> 👋
   </h1>
   
   <p align="center">
