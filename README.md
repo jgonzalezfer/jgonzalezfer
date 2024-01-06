@@ -4,7 +4,7 @@
   </h1>
   
   <p align="center">
-    I live in Chile and work to Bigcom
+    I live in Chile and work to Mystudiodev
   </p>
   
   <p align="center">
