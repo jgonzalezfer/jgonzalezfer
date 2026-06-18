@@ -3,8 +3,13 @@
 </h1>
 
 <p align="center">
-  <strong>Software Engineer & Digital Solutions Expert</strong><br>
-  Based in Chile 🇨🇱 | Building experiences at <strong>Mystudiodev</strong>
+  <a href="https://github.com/jgonzalezfer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Software+Engineer;Digital+Solutions+Expert;Building+at+Mystudiodev" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  Based in Chile 🇨🇱
 </p>
 
 <p align="center">
@@ -27,7 +32,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right" alt="Software Engineering Illustration">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320px" align="right" alt="Software Engineering Illustration">
 
 <p>
   <img src="https://img.shields.io/badge/PHP-1C1C1C?style=for-the-badge&logo=PHP&logoColor=00FFFF" alt="PHP" />
@@ -37,17 +42,29 @@
   <img src="https://img.shields.io/badge/Linux-1C1C1C?style=for-the-badge&logo=linux&logoColor=00FFFF" alt="Linux" />
 </p>
 
-<br>
+<br clear="right">
+
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/jgonzalezfer">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jgonzalezfer&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jgonzalezfer&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1C1C1C&title_color=00FFFF&icon_color=00FFFF" />
   </a>
   <a href="https://github.com/jgonzalezfer">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgonzalezfer&layout=compact&theme=tokyonight" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgonzalezfer&layout=compact&theme=tokyonight&hide_border=true&bg_color=1C1C1C&title_color=00FFFF" />
   </a>
 </p>
 
-<br clear="right">
+<p align="center">
+  <a href="https://github.com/jgonzalezfer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgonzalezfer&theme=tokyonight&hide_border=true&background=1C1C1C&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jgonzalezfer">
+    <img src="https://github-profile-trophy.vercel.app/?username=jgonzalezfer&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+  </a>
+</p>
