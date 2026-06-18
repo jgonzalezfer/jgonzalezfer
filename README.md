@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jgonzalezfer&style=for-the-badge&label=visitors&color=1C1C1C" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=jgonzalezfer&abbreviated=true&style=for-the-badge&label=visitors&color=00FFFF" alt="Visitors" />
 </p>
 
 <p align="center">
@@ -63,8 +63,12 @@
   </a>
 </p>
 
+---
+
+### 🏆 Trophies
+
 <p align="center">
   <a href="https://github.com/jgonzalezfer">
-    <img src="https://github-profile-trophy.vercel.app/?username=jgonzalezfer&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=jgonzalezfer&theme=tokyonight&no-frame=true&column=4&margin-w=10" alt="Trophies" />
   </a>
 </p>
