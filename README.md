@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jgonzalezfer">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjgonzalezfer&count_bg=%2300FFFF&title_bg=%231C1C1C&title=visitors&edge_flat=false" alt="Visitors" />
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjgonzalezfer" alt="Visitors" />
   </a>
 </p>
 
