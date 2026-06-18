@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://jgonzalez.gatsbyjs.io" target="_blank">Joel González F.</a> 👋
+  Hi there, I'm <a href="https://jgonzalezfer.netlify.app/" target="_blank">Joel González F.</a> 👋
 </h1>
 
 <p align="center">
@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jgonzalezfer&abbreviated=true&style=for-the-badge&label=visitors&color=00FFFF" alt="Visitors" />
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjgonzalezfer.netlify.app%2F&count_bg=%2300FFFF&title_bg=%231C1C1C&title=visitors&edge_flat=false" alt="Visitors" />
+  </a>
 </p>
 
 <p align="center">
